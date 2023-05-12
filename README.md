@@ -10,13 +10,14 @@
 <p align="left">
 <a href="https://twitter.com/htmi2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htmi2022" height="30" width="40" /></a>
 <a href="https://discord.gg/FWz6engG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FWz6engG" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leopico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leopico" height="30" width="40" /></a>
 </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/leopico](https://linktr.ee/leopico)
 
 - 📫 How to reach me **leopico.peceng@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i5mAgVRZJPqJ_G4D7hYLag7gh9Q3dq-d/view](https://drive.google.com/file/d/1i5mAgVRZJPqJ_G4D7hYLag7gh9Q3dq-d/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CioVuZHa84SHaDuvZ8GKjkEoGxNhTn4N/view?usp=share_link](https://drive.google.com/file/d/1CioVuZHa84SHaDuvZ8GKjkEoGxNhTn4N/view?usp=share_link)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leopico" alt="leopico" /></a> </p>
 
