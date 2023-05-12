@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/htmi2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htmi2022" height="30" width="40" /></a>
-<a href="https://discord.gg/FWz6engG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FWz6engG" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leopico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leopico" height="30" width="40" /></a>
+<a href="https://discord.gg/FWz6engG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FWz6engG" height="30" width="40" /></a>
+<a href="https://twitter.com/htmi2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htmi2022" height="30" width="40" /></a>
 </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/leopico](https://linktr.ee/leopico)
