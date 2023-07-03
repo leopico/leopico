@@ -1,6 +1,6 @@
 ![logo](https://github.com/leopico/leopico/blob/main/start%20coding%20todsy's.png)
 <h1 align="center">Hi 👋, I'm Leopico</h1>
-<h3 align="center">A passionate full-stack web developer in Myanmar</h3>
+<h3 align="center">A passionate web developer in Myanmar</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
