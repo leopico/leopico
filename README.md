@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **leopico.peceng@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1dVuC7ztPCuMGhezH7QZKEAfh52qjgzmA/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1HYzOk0h_FUfQ8TWvGYEPBSpX7_h8bIvh/view?usp=sharing)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leopico" alt="leopico" /></a> </p>
 
